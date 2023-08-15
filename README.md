@@ -7,8 +7,7 @@ Configurações para iniciar um projeto em Node.
 * TypeScript
 * Module Alias
 * Eslint
-* Jest Unit
-* Jest Integration
+* Jest
 * Lint Staged
 * Husky
 * ts-node-dev
